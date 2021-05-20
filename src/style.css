@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  color: #fff;
+  margin: 10px 10px 0px 0px;
+  border-radius: 4px;
+  width: 250px;
+  height: 150px;
+  text-align: center;
+  padding-top: 10%;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+button {
+  background-color: #000;
+  color: #fff;
+  height: 32px;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
