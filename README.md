@@ -10,7 +10,8 @@ This project demonstrates the `fill()` method of JavaScript Array using color ca
 
 # Demo
 
-TBA
+<img src='./arra_fill_demo.gif' alt="fill-demo" />
+
 
 # Liked it?
 If you find it helpful, please give the repository a star(⭐).
